@@ -1,5 +1,5 @@
-Blake Matthews
-Capstone Project Proposal
+Blake Matthews.
+Capstone Project Proposal.
 The application I have planned is a ticketing system for a hypothetical computer repair company with multiple physical locations. Through work, I am familiar with tech support ticketing software and the business rules thereof. The other reason I chose this as a project is because making a full-stack CRUD application (without the hypothetical business this is all the software actually is) seemed interesting to me and I thought I would learn a lot.
 The business will offer different tech support services as listed in the table below:
 
