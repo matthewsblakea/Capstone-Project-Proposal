@@ -16,7 +16,7 @@ As stated above, the application is CRUD: there is a database where all the data
  
 Application Map:
 
-![image](https://github.com/matthewsblakea/Capstone-Project-Proposal/assets/149626951/bdc4aa81-6980-450a-a93c-7083c5df80b4)
+![image](https://github.com/matthewsblakea/Capstone-Project-Proposal/assets/149626951/fdd4845a-2ce7-40ef-8c2e-fd7398142e33)
 
 DB Map:
 
